@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hasan Amkieh</h1>
 <h3 align="center">A passionate frontend/backend, IoT developer, CMPE Bsc</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasan-amkieh&label=Profile%20views&color=0e75b6&style=flat" alt="hasan-amkieh" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasan-amkieh" alt="hasan-amkieh" /></a> </p>
 
 - 🔭 I’m currently working on **Autonomous Transwing UAV**
